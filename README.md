@@ -1,7 +1,7 @@
 # hello-world
 ==================
 
-Wow, the world. Importannt meeting here. Don't want to mess this up...
+Wow, the world. Important meeting here. Don't want to mess this up...
 
 -ahem-
 
